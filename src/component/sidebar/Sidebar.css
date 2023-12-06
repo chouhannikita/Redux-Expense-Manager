@@ -1,0 +1,32 @@
+.side-box{
+  background-color: rgb(185, 169, 156);
+  width: 200px;
+  height: 628px;
+  margin-left: 0px;
+  position: fixed;
+}
+ul{
+  list-style: none;
+}
+.listItem{
+  color: rgb(12, 7, 7);
+  font-size: 20px;
+  line-height: 70px;
+}
+.container-box{
+  display: flex;
+}
+.child{
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 18px;
+}

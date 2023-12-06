@@ -1,0 +1,13 @@
+
+.Form-group{
+  margin-top: 18px;
+  width: 500px;
+}
+.form{
+  margin-left: 20px;
+}
+.msg{
+  font-weight: 15px;
+  font-size: large;
+  color: green;
+}

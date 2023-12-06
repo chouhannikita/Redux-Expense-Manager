@@ -1,0 +1,127 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com"
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "123",
+      "copassword": "123",
+      "id": 2
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "456",
+      "copassword": "456",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "123456789",
+      "copassword": "123456789",
+      "id": 4
+    },
+    {
+      "email": "ghhj@jgo.com",
+      "password": "12345678",
+      "copassword": "12345678",
+      "id": 6
+    },
+    {
+      "email": "ghhj@jgo.com",
+      "password": "12345678",
+      "copassword": "12345678",
+      "id": 7
+    }
+  ],
+  "expense": [
+    {
+      "type": "Cash",
+      "date": "2023-12-06",
+      "amount": "$46",
+      "desc": "shopping",
+      "id": 2
+    },
+    {
+      "type": "Cash",
+      "date": "2021-05-06",
+      "amount": "$244",
+      "desc": "dress",
+      "id": 3
+    },
+    {
+      "type": "Card",
+      "date": "2023-12-05",
+      "amount": "1234678",
+      "desc": "shopping",
+      "id": 6
+    },
+    {
+      "type": "Card",
+      "date": "2021-05-06",
+      "amount": "$24",
+      "desc": "dress",
+      "id": 7
+    },
+    {
+      "type": "Cash",
+      "date": "2023-12-06",
+      "amount": "1234",
+      "desc": "123",
+      "id": 8
+    },
+    {
+      "type": "Card",
+      "date": "2022-02-06",
+      "amount": "$36",
+      "desc": "none",
+      "id": 9
+    },
+    {
+      "type": "Cash",
+      "date": "2023-12-06",
+      "amount": "$8",
+      "desc": "banana",
+      "id": 10
+    }
+  ],
+  "profile": [
+    {
+      "fname": "example",
+      "lname": "example1",
+      "email": "example@gmail.com",
+      "id": 1
+    },
+    {
+      "fname": "nikita",
+      "lname": "chouhan",
+      "email": "abc@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "nikita",
+      "lname": "chouhan",
+      "email": "abc@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "fname": "nikita",
+      "lname": "chouhan",
+      "email": "abc@gmail.com",
+      "id": 5
+    },
+    {
+      "fname": "nikita1",
+      "lname": "chouhan",
+      "email": "abc@gmail.com",
+      "id": 6
+    }
+  ]
+}
